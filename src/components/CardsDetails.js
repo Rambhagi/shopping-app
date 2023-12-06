@@ -10,7 +10,7 @@ const CardsDetails = () => {
 
     const [data,setData] = useState([]);
     //console.log(data);
-
+    
     const {id} = useParams();
     //console.log(id);
 
